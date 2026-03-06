@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+data/
+store/
+groups/*/
+!groups/main/
+!groups/main/AGENTS.md
+.omc/
+*.db
+*.db-wal
+*.db-shm
